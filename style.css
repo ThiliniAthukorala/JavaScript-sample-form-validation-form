@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245, 154, 212);
+    color: black;
+    margin: 20px;
+    line-height: 1.6em;
+}
+
+#submit{
+   background-color: black;
+   color: white; 
+}
+
+#reset{
+    background-color: white;
+    color: black;
+}
